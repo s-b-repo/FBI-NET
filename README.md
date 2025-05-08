@@ -9,7 +9,7 @@
 
 ### 🧠 Project: `FBI-NET`
 
-> A simulated IoT botnet framework controlled via multiple GitHub `README.md` files. Supports brute-force propagation, malware killing, and credential lockdown.
+> A  IoT botnet framework controlled via multiple GitHub `README.md` files. Supports brute-force propagation, malware killing, and credential lockdown.
 
 ---
 ### Guide for .py files
