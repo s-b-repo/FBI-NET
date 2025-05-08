@@ -7,11 +7,18 @@
 
 ---
 
-### 🧠 Project: `BotNet-GH-Control`
+### 🧠 Project: `FBI-NET`
 
 > A simulated IoT botnet framework controlled via multiple GitHub `README.md` files. Supports brute-force propagation, malware killing, and credential lockdown.
 
 ---
+### Guide for .py files
+you have to edit  the .py files and confiure them 
+snotscan for finding devices
+serialkiller for killing other nets 
+permakill patches all devices with your own credentials save them securly
+thefinalbop puts your payloads into the server
+openssh.py is a bot for controlling devices using github Readme.md configure your links inside the code
 
 ### ✅ Features
 
